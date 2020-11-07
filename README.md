@@ -1,6 +1,6 @@
 # Fresh-Food
 
-This is an mobile application built using [Ionic](https://ionicframework.com) & [Angular](https://angular.io) Framework.  
+This is an mobile application built using [Ionic](https://ionicframework.com) & [Angular](https://angular.io) Frameworks.  
 It allows an user to Order Fresh Groceries.  
 
 ## To run Locally

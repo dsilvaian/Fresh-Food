@@ -3,7 +3,7 @@
 This is an mobile application built using [Ionic](https://ionicframework.com) & [Angular](https://angular.io) Frameworks.  
 It allows an user to Order Fresh Groceries.  
 
-## To run Locally
+## To run Locally (via Browser)
 
 
 Clone this Repository
